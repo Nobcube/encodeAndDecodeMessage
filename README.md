@@ -1,2 +1,5 @@
 # encodeAndDecodeMessage
-nothing special, just a random python script i made quickly
+encodes and decodes messages,
+
+you will have to run this program from the console
+'py encodeAndDecodeMessage'
